@@ -218,7 +218,7 @@ Deve funcionar como o Airbnb: o cidadão disponibiliza seu veículo para aluguel
 
 Criar um diagrama de classes simples, escrever casos de teste e realizar a implementação.
 
-Projetar e implementar observando a **coesão**, **creator** e **information expert**.
+Projetar e implementar observando a **coesão** e os princípios **creator** e **information expert** (ver GRASP).
 
 Obs.: esta parte é sugerida que seja feita em dupla, chegando uma solução conjunta, depois cada um sobe no seu repositório a solução.
 
