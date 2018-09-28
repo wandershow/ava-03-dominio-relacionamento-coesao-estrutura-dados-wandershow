@@ -1,6 +1,6 @@
 # Domínio, relacionamento entre objetos, coesão e estrutura de dados
 
-_Classroom link:_ <https://classroom.github.com/a/>
+_Classroom link:_ <https://classroom.github.com/a/dkmD6RWV>
 
 ## Modelar e implementar respeitando os princípios de Orientação a Objetos
 
@@ -13,13 +13,14 @@ _Classroom link:_ <https://classroom.github.com/a/>
 - coesão
 - estrutura de dados (lista)
 
-#### Prazo: 2018-09-14 Peso: 1.7 pt
+#### Prazo: 2018-10-14 Peso: 1.7 pt
 
 **Regras**
 
 * Não podem ser usadas as bibliotecas do Java, por exemplo, a classe `Math`, `Scanner`, etc, inclusive os métodos de Integer, como `parseInt` ou métodos de String, EXCETO `length`, `charAt` e `equals`;
 * Os Casos de Teste podem ser corrigidos, mas a especificação não pode ser alterada;
-* É recomendado o uso da IDE Eclipse, mas não obrigatório. Caso utilizada, apenas o conteúdo da pasta `src` deve ser _upado_, não enviar o projeto ou _workspace_ inteiro.
+* É recomendado o uso da IDE Eclipse, mas não obrigatório. Caso utilizada, apenas o conteúdo da pasta `src` deve ser _upado_, não enviar o projeto ou _workspace_ inteiro;
+* Prazo até 14 de outubro, domingo, com _permission granted to **burn the midnight oil**_.
 
 ### Implementar lista dinâmica (0.5 pts)
 
