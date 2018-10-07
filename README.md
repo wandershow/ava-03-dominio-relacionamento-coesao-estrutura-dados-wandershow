@@ -13,7 +13,7 @@ _Classroom link:_ <https://classroom.github.com/a/dkmD6RWV>
 - coesão
 - estrutura de dados (lista)
 
-#### Prazo: 2018-10-14 Peso: 1.7 pt
+#### Prazo: 2018-10-21 Peso: 1.7 pt
 
 **Regras**
 
